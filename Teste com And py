@@ -1,0 +1,5 @@
+n = int(input('Digite sua idade: '))
+if n >= 18 and n <= 65:
+    print('Você é obrigado a votar!')
+else:
+    print('Você não precisa votar!')
